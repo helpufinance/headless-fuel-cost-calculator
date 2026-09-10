@@ -6,6 +6,8 @@
 
 # Headless Fuel Cost Calculator
 
+[![npm version](https://img.shields.io/npm/v/%40helpu%2Fheadless-fuel-cost-calculator?logo=npm)](https://www.npmjs.com/package/@helpu/headless-fuel-cost-calculator)
+
 A headless, framework-agnostic fuel cost calculator with distance, consumption, and fuel price conversions for metric and imperial units. Zero dependencies, works in Node.js, Bun, and browsers.
 
 ## What is HelpU Finance?
