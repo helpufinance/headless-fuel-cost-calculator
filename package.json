@@ -1,6 +1,6 @@
 {
     "name": "@helpu/headless-fuel-cost-calculator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A headless, framework-agnostic fuel cost calculator with distance, consumption, and price conversions for metric and imperial units",
     "keywords": [
         "fuel",
